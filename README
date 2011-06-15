@@ -1,0 +1,5 @@
+javac  -cp .:./mail.jar:./pdfbox-app-1.5.0.jar GmailInboxReader.java
+java  -cp .:./mail.jar:./pdfbox-app-1.5.0.jar GmailInboxReader
+
+
+you need to download wkhtmltopdf-amd64 from http://code.google.com/p/wkhtmltopdf/
